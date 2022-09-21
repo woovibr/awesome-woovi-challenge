@@ -6,7 +6,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 # Challenges
 - [Relay Workshop](https://github.com/sibelius) - Relay Workshop | @sibelius receive the access giving support in him patreon
 - [Fakeddt](https://github.com/noghartt/fakeddit) - A Reddit clone developed as a monorepo with React + Relay + Node.js + MongoDB by @noghartt
-- [Notdiscord](ttps://github.com/Eckzzo/notdiscord) - NotDiscord is a Discord clone made with React! by @Eckzzo
+- [Notdiscord](https://github.com/Eckzzo/notdiscord) - NotDiscord is a Discord clone made with React! by @Eckzzo
 - [xau](https://github.com/samueldurantes/xau) - Hackernws clone by @samueldurantes
 - [Tuwuitter](https://github.com/wrongbyte/tuwuitter) - Twitter clone by @wrongbyte
 - [Ticoteco](https://github.com/gabrielleeg1/ticoteco) - Tiktok web clone by @gabrielleeg1
