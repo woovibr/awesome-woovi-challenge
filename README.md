@@ -4,12 +4,15 @@
 Repository containing awesome woovi challenges made by our challengers while trying to get in the Woovi Team
 
 ## Challenges
-- [Relay Workshop](https://github.com/sibelius) - Relay Workshop | @sibelius receive the access giving support in him patreon
-- [Fakeddt](https://github.com/noghartt/fakeddit) - A Reddit clone developed as a monorepo with React + Relay + Node.js + MongoDB by @noghartt
-- [Notdiscord](https://github.com/Eckzzo/notdiscord) - NotDiscord is a Discord clone made with React! by @Eckzzo
-- [xau](https://github.com/samueldurantes/xau) - Hackernews clone by @samueldurantes
-- [Tuwuitter](https://github.com/wrongbyte/tuwuitter) - Twitter clone by @wrongbyte
-- [Ticoteco](https://github.com/gabrielleeg1/ticoteco) - Tiktok web clone by @gabrielleeg1
+- [Relay Workshop](https://github.com/sibelius/relay-workshop-private) - Relay Workshop | [@sibelius](https://github.com/sibelius) receive the access giving support in him patreon
+- [Fakeddt](https://github.com/noghartt/fakeddit) - A Reddit clone developed as a monorepo with React + Relay + Node.js + MongoDB by [@noghartt](https://github.com/noghartt)
+- [Notdiscord](https://github.com/Eckzzo/notdiscord) - NotDiscord is a Discord clone made with React! by [@Eckzzo](https://github.com/Eckzzo)
+- [xau](https://github.com/samueldurantes/xau) - Hackernews clone by [@samueldurantes](https://github.com/samueldurantes)
+- [Tuwuitter](https://github.com/wrongbyte/tuwuitter) - Twitter clone by [@wrongbyte](https://github.com/wrongbyte)
+- [Ticoteco](https://github.com/gabrielleeg1/ticoteco) - Tiktok web clone by [@gabrielleeg1](https://github.com/gabrielleeg1)
+
+## Pix Architecture
+- [Pix Credito](https://github.com/jeffque/pix-credito) - Pix Credito by [@jeffque](https://github.com/jeffque)
 
 ## Contribute
 Add a new challenge in the list:
