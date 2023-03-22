@@ -14,6 +14,16 @@ Repository containing awesome woovi challenges made by our challengers while try
 ## Pix Architecture
 - [Pix Credito](https://github.com/jeffque/pix-credito) - Pix Credito by [@jeffque](https://github.com/jeffque)
 
+## Finishing the challenge
+For those who finished the woovi challenge:
+- fork this repo https://github.com/entria/awesome-woovi-challenge
+- add your challenge
+- add your information on readme
+- open a new pull request
+- open a new issue: Woovi Challenge Review - your challenge name
+- link the issue with the pull request
+- send on discord
+
 ## Contribute
 Add a new challenge in the list:
 - forking the respository
