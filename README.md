@@ -10,6 +10,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [xau](https://github.com/samueldurantes/xau) - Hackernews clone by [@samueldurantes](https://github.com/samueldurantes)
 - [Tuwuitter](https://github.com/wrongbyte/tuwuitter) - Twitter clone by [@wrongbyte](https://github.com/wrongbyte)
 - [Ticoteco](https://github.com/gabrielleeg1/ticoteco) - Tiktok web clone by [@gabrielleeg1](https://github.com/gabrielleeg1)
+- [Violetit](https://github.com/nogw/violetit) - A Reddit clone developed with React + Relay by [@nogw](https://github.com/nogw)
 - [Surgeries Plans](https://github.com/bolodissenoura/GQL-study-project) -  Real product MVP to surgery instrumentator by [@daniellimae](https://github.com/bolodissenoura)
 
 ## Pix Architecture
