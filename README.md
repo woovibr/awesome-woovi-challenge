@@ -11,10 +11,12 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Tuwuitter](https://github.com/wrongbyte/tuwuitter) - Twitter clone by [@wrongbyte](https://github.com/wrongbyte)
 - [Ticoteco](https://github.com/gabrielleeg1/ticoteco) - Tiktok web clone by [@gabrielleeg1](https://github.com/gabrielleeg1)
 - [Violetit](https://github.com/nogw/violetit) - A Reddit clone developed with React + Relay by [@nogw](https://github.com/nogw)
-- [Surgeries Plans](https://github.com/bolodissenoura/GQL-study-project) -  Real product MVP to surgery instrumentator by [@daniellimae](https://github.com/bolodissenoura)
+- [Surgeries Plans](https://github.com/bolodissenoura/GQL-study-project) - Real product MVP to surgery instrumentator by [@daniellimae](https://github.com/bolodissenoura)
+- [sonozap](https://github.com/scarletquasar/sonozap) - Fully-featured WhatsApp clone with contacts and realtime messaging by [@scarletquasar](https://github.com/scarletquasar)
 
 ## Pix Architecture
 - [Pix Credito](https://github.com/jeffque/pix-credito) - Pix Credito by [@jeffque](https://github.com/jeffque)
+- [Offline Pix RFC](https://github.com/scarletquasar/offline-pix-rfc) - RFC for easy-to-use offline pix payments based on QRCodes by [@scarletquasar](https://github.com/scarletquasar)
 
 ## Finishing the challenge
 For those who finished the woovi challenge:
