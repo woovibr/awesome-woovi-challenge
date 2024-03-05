@@ -15,7 +15,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Violetit](https://github.com/nogw/violetit) - A Reddit clone developed with React + Relay by [@nogw](https://github.com/nogw)
 - [Surgeries Plans](https://github.com/bolodissenoura/GQL-study-project) - Real product MVP to surgery instrumentator by [@daniellimae](https://github.com/bolodissenoura)
 - [sonozap](https://github.com/scarletquasar/sonozap) - Fully-featured WhatsApp clone with contacts and realtime messaging by [@scarletquasar](https://github.com/scarletquasar)
-- [Zap](https://github.com/hnrbs/zap) - Real-time messaging app, inspired by Telegram and WhatsApp. [@hnrbs](https://github.com/hnrbs)
+- [Zap](https://github.com/nothenrin/zap) - Real-time messaging app, inspired by Telegram and WhatsApp. [@nothenrin](https://github.com/nothenrin)
 - [Event List](https://github.com/event-list/event-list) - Saas to create, manage and share your parties. [@vinibgoulart](https://github.com/vinibgoulart)
 
 ## Pix Architecture
