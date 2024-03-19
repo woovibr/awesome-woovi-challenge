@@ -17,6 +17,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [sonozap](https://github.com/scarletquasar/sonozap) - Fully-featured WhatsApp clone with contacts and realtime messaging by [@scarletquasar](https://github.com/scarletquasar)
 - [Zap](https://github.com/nothenrin/zap) - Real-time messaging app, inspired by Telegram and WhatsApp. [@nothenrin](https://github.com/nothenrin)
 - [Event List](https://github.com/event-list/event-list) - Saas to create, manage and share your parties. [@vinibgoulart](https://github.com/vinibgoulart)
+- [Bacen Simulator](https://github.com/eletroswing/bacen-simulator) - Docker image to simulate Bacen, official brazilian payment infrastructure for Devs by [@eletroswing](https://github.com/eletroswing)
 
 ## Pix Architecture
 
