@@ -19,6 +19,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Event List](https://github.com/event-list/event-list) - Saas to create, manage and share your parties. [@vinibgoulart](https://github.com/vinibgoulart)
 - [Bacen Simulator](https://github.com/eletroswing/bacen-simulator) - Docker image to simulate Bacen, official brazilian payment infrastructure for Devs by [@eletroswing](https://github.com/eletroswing)
 - [Ask2me](https://github.com/Thiago-Mota-Santos/Ask2me) App to Receive Questions: Easily create a profile and receive questions directly by [@ThiagoMota](https://github.com/Thiago-Mota-Santos)
+- [Woovi Desafio Bank Back End](https://github.com/danielandersonBC96/woovi-desafio-bank-back-end) - Woovi Challenge CRUD Bank [danielandersonBC96](https://github.com/danielandersonBC96)
 
 ## Pix Architecture
 
