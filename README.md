@@ -21,6 +21,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Ask2me](https://github.com/Thiago-Mota-Santos/Ask2me) App to Receive Questions: Easily create a profile and receive questions directly by [@ThiagoMota](https://github.com/Thiago-Mota-Santos)
 - [Woovi Desafio Bank Back End](https://github.com/danielandersonBC96/woovi-desafio-bank-back-end) - Woovi Challenge CRUD Bank [danielandersonBC96](https://github.com/danielandersonBC96)
 - [WooBank](https://woobank-web.vercel.app/) - WooBank - Woovi Challenge CRUD Bank [victordantasdev](https://github.com/victordantasdev) - [repo](https://github.com/victordantasdev/woobank)
+- [VaultTrack](https://github.com/henrique-leme/vault-track) - VaultTrack - Woovi Challenge CRUD Bank [@henrique-leme](https://github.com/henrique-leme)
 
 ## Pix Architecture
 
