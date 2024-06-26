@@ -22,6 +22,8 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Woovi Desafio Bank Back End](https://github.com/danielandersonBC96/woovi-desafio-bank-back-end) - Woovi Challenge CRUD Bank [danielandersonBC96](https://github.com/danielandersonBC96)
 - [WooBank](https://woobank-web.vercel.app/) - WooBank - Woovi Challenge CRUD Bank [victordantasdev](https://github.com/victordantasdev) - [repo](https://github.com/victordantasdev/woobank)
 - [VaultTrack](https://github.com/henrique-leme/vault-track) - VaultTrack - Woovi Challenge CRUD Bank [@henrique-leme](https://github.com/henrique-leme)
+- [WooviBank](https://github.com/neverson-silva/woo-bank) - Woovi Challenge CRUD Bank [neverson-silva](https://github.com/neverson-silva)
+
 
 ## Pix Architecture
 
