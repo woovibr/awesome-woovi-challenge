@@ -1,0 +1,19 @@
+:root {
+    --mui-palette-primary-main: #1976d2;
+    --mui-palette-primary-light: #42a5f5;
+    --mui-palette-primary-dark: #1565c0;
+    --mui-palette-primary-contrastText: #fff;
+  }
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+body {
+  margin: 0;
+}
+
+
+
