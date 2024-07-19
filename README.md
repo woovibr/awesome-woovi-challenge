@@ -24,6 +24,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [VaultTrack](https://github.com/henrique-leme/vault-track) - VaultTrack - Woovi Challenge CRUD Bank [@henrique-leme](https://github.com/henrique-leme)
 - [WooviBank](https://github.com/neverson-silva/woo-bank) - Woovi Challenge CRUD Bank [neverson-silva](https://github.com/neverson-silva)
 - [Woovi Frontend Engineer Challenge](https://github.com/akshatSoni26/woovitask) - Woovi Frontend Engineer Challenge [akshatSoni26](https://github.com/akshatSoni26)
+- [Woovi Challenge Frontend Engineer](https://github.com/gaia-j/woovi-challenge) - Woovi Challenge Frontend Engineer [akshatSoni26](https://github.com/gaia-j)
 
 ## Challenges Pix Architecture
 
