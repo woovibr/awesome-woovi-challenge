@@ -4,7 +4,7 @@
 
 Repository containing awesome woovi challenges made by our challengers while trying to get in the Woovi Team
 
-## Challenges
+## Challenges Fullstack
 
 - [Relay Workshop](https://github.com/sibelius/relay-workshop-private) - Relay Workshop | [@sibelius](https://github.com/sibelius) receive the access giving support in him patreon
 - [Fakeddt](https://github.com/noghartt/fakeddit) - A Reddit clone developed as a monorepo with React + Relay + Node.js + MongoDB by [@noghartt](https://github.com/noghartt)
@@ -25,10 +25,14 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [WooviBank](https://github.com/neverson-silva/woo-bank) - Woovi Challenge CRUD Bank [neverson-silva](https://github.com/neverson-silva)
 - [Woovi Frontend Engineer Challenge](https://github.com/akshatSoni26/woovitask) - Woovi Frontend Engineer Challenge [akshatSoni26](https://github.com/akshatSoni26)
 
-## Pix Architecture
+## Challenges Pix Architecture
 
 - [Pix Credito](https://github.com/jeffque/pix-credito) - Pix Credito by [@jeffque](https://github.com/jeffque)
 - [Offline Pix RFC](https://github.com/scarletquasar/offline-pix-rfc) - RFC for easy-to-use offline pix payments based on QRCodes by [@scarletquasar](https://github.com/scarletquasar)
+
+## Challenges Frontend
+- [Woovi App](https://github.com/eliaslma/woovi-app/) by [Elias Lima](https://github.com/eliaslma)
+- [Woovi Web](https://github.com/eliaslma/woovi-web/) by [Elias Lima](https://github.com/eliaslma)
 
 ## Finishing the challenge
 
