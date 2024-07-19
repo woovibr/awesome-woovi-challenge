@@ -35,6 +35,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Woovi Web](https://github.com/eliaslma/woovi-web/) by [Elias Lima](https://github.com/eliaslma)
 - [Woovi Frontend Engineer Challenge](https://github.com/akshatSoni26/woovitask) - Woovi Frontend Engineer Challenge [akshatSoni26](https://github.com/akshatSoni26)
 - [Woovi Frontend Engineer Challenge](https://github.com/leandrucarvalho/desafio-woovi-frontend) - Woovi Frontend Engineer Challenge [leandrucarvalho](https://github.com/leandrucarvalho)
+- [Woovi Frontend Engineer Challenge](https://github.com/wkauan/woovi-frontend-challenge) - Woovi Frontend Engineer Challenge [wkauan](https://github.com/wkauan)
 
 
 ## Finishing the challenge
