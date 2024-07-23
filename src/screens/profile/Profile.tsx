@@ -1,14 +1,14 @@
 import { StyleSheet } from 'react-native';
 
-import { Text, View } from '@/src/components/Themed';
 import EditScreenInfo from '@/src/components/EditScreenInfo';
+import { Text, View } from '@/src/components/Themed';
 
-export default function HomeScreen() {
+export default function ProfileScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab One</Text>
+      <Text style={styles.title}>Tab Profile</Text>
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
-      <EditScreenInfo path="app/(tabs)/Home.tsx" />
+      <EditScreenInfo path="app/(tabs)/index.tsx" />
     </View>
   );
 }
