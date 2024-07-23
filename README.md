@@ -24,6 +24,8 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [VaultTrack](https://github.com/henrique-leme/vault-track) - VaultTrack - Woovi Challenge CRUD Bank [@henrique-leme](https://github.com/henrique-leme)
 - [WooviBank](https://github.com/neverson-silva/woo-bank) - Woovi Challenge CRUD Bank [neverson-silva](https://github.com/neverson-silva)
 - [Bankr](https://bankr-two.vercel.app/) - Bankr - Woovi Challenge CRUD Bank [pedroscosta](https://github.com/pedroscosta) - [repo](https://github.com/pedroscosta/bankr)
+- [tabnews.clone.com.br](https://github.com/joelbrs/tabnews.clone.com.br) - A Tabnews clone developed with Woovi stack by  [@joelbrs](https://github.com/joelbrs)
+- [Bank](https://github.com/joelbrs/bank.com.br) - Bank - Woovi Challenge CRUD FullStack developed by [@joelbrs](https://github.com/joelbrs)
 
 ## Challenges Pix Architecture
 
