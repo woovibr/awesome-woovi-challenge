@@ -5,6 +5,7 @@ import StepInstallments from '../components/StepByStep-Payment/StepInstallments'
 import StepPayPix from '../components/StepByStep-Payment/StepPayPix';
 import StepPayCreditCard from '../components/StepByStep-Payment/StepPayCreditCard';
 import { useNavigation } from 'expo-router';
+import SuccessScreen from '../components/StepByStep-Payment/Success';
 
 const PaymentScreen = () => {
   const [step, setStep] = useState(1);
@@ -19,6 +20,7 @@ const PaymentScreen = () => {
   };
 
   const handleBack = () => {
+    console.log("step atual", step)
     if (step === 1) {
       navigation.navigate('index'); 
     } else {
@@ -31,7 +33,8 @@ const PaymentScreen = () => {
       <Header onBack={handleBack} />
       {step === 1 && <StepInstallments onNext={handleNext} />}
       {step === 2 && <StepPayPix value={value} onNext={() => setStep(3)} onBack={handleBack} />}
-      {step === 3 && <StepPayCreditCard onNext={() => navigation.navigate('nextScreen')} onBack={handleBack} />}
+      {step === 3 && <StepPayCreditCard onNext={() => setStep(4)}  />}
+      {step === 4 && <SuccessScreen />}
     </View>
   );
 };
