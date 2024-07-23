@@ -2,11 +2,13 @@ import * as React from 'react';
 import { View, StyleSheet, ScrollView, Image, TouchableOpacity, Text } from 'react-native';
 import CustomButton from '@/src/components/Button/Button';
 import Logo from "../../assets/logo/logo.png";
+import { useNavigation } from '@react-navigation/native';
 
 export default function Conversion({ clearValues }) {
   const [value, setValue] = React.useState<string>('0,00');
   const [cellsPressed, setCellsPressed] = React.useState<number[]>([0]);
-
+  const navigation = useNavigation();
+  
   const calculatorKeyboard: number[][] = [
     [1, 2, 3],
     [4, 5, 6],
@@ -21,7 +23,7 @@ export default function Conversion({ clearValues }) {
   }, [clearValues]);
 
   const goToCheckout = () => {
-    navigation.navigate('Checkout', { valueToConversion: parseFloat(value.replace(',', '.')) });
+    navigation.navigate('payment', { valueToConversion: parseFloat(value.replace(',', '.')) });
   };
 
   React.useEffect(() => {
