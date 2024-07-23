@@ -29,7 +29,7 @@ export default function TabLayout() {
         tabBarInactiveTintColor: Colors.light.tabIconDefault,
         tabBarStyle: styles.tabBarStyle,
         tabBarShowLabel: false,
-        headerShown: useClientOnlyValue(false, true),
+        headerShown: useClientOnlyValue(true, false),
       }}>
       <Tabs.Screen
         name="index"
