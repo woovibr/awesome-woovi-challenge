@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
+    "@joaosousa/react-native-progress-steps": "^0.4.0",
     "@react-navigation/native": "^6.0.2",
     "expo": "~51.0.22",
     "expo-font": "~12.0.9",
