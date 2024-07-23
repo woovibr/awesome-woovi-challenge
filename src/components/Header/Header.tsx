@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, View, TouchableOpacity, Image } from 'react-native';
 import { FontAwesome } from '@expo/vector-icons';
-import Logo from '../../assets/logo/logo.png'; // Ajuste o caminho conforme necessário
+import Logo from '../../assets/logo/logo.png';
 
 interface HeaderProps {
   onBack: () => void;

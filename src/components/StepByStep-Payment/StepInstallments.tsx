@@ -1,13 +1,14 @@
 import React from 'react';
 import { StyleSheet, View, ScrollView } from 'react-native';
 import { Text } from '@/src/components/Themed';
-import InfoBox from '../InfoBox/InfoBox';
+import InfoBox from '../InfoBox/Infobox';
 import SecurityFooter from '../Footer/footerSecurity';
+import CustomButton from '../Button/Button';
 
 const totalValue = 10000;
 
 const calculateInstallment = (total, installments) => {
-  const interestRate = 0.05; // 5% de juros por parcela adicional
+  const interestRate = 0.05;
   const rate = 1 + (installments - 1) * interestRate;
   return (total / installments * rate);
 };
@@ -15,6 +16,7 @@ const calculateInstallment = (total, installments) => {
 const calculateTotalValue = (installments, installmentValue) => {
   return installments * installmentValue;
 };
+
 
 const formatCurrency = (value) => {
   return value
@@ -29,14 +31,13 @@ const cashbackDetails = {
   message: "de volta no seu Pix na hora"
 };
 
-const ExtractScreen = () => {
+const ExtractScreen = ({ onNext }) => {
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <Text style={styles.instruction}>
         Ivan, visualize os detalhes de sua transação
       </Text>
-      
-      {/* InfoBox para Pix */}
+
       <InfoBox
         numInstallments="1"
         installmentValue={`R$ ${formatCurrency(totalValue)}`}
@@ -46,7 +47,6 @@ const ExtractScreen = () => {
         cashbackDetails={cashbackDetails}
       />
 
-      {/* InfoBox para Pix Parcelado */}
       <InfoBox
         numInstallments="2"
         installmentValue={`R$ ${formatCurrency(calculateInstallment(totalValue, 2))}`}
@@ -55,9 +55,8 @@ const ExtractScreen = () => {
         boxName="Pix Parcelado"
       />
 
-      {/* InfoBox para parcelas de 3x até 12x */}
       {Array.from({ length: 10 }, (_, i) => {
-        const installments = i + 3; // De 3 a 12 parcelas
+        const installments = i + 3; 
         const installmentValue = calculateInstallment(totalValue, installments);
         return (
           <InfoBox
@@ -69,7 +68,19 @@ const ExtractScreen = () => {
           />
         );
       })}
-
+      <View style={styles.footer}>
+          <CustomButton
+            title="Continuar"
+            onPress={() => onNext()}
+            disabled={!totalValue}
+            backgroundColor="#03D69D"
+            borderColor="#03D69D"
+            borderRadius={12}
+            paddingVertical={16}
+            paddingHorizontal={32}
+            textColor="#fff"
+          />
+        </View>
       <SecurityFooter />
     </ScrollView>
   );
@@ -86,6 +97,10 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     color: '#4D4D4D',
     marginBottom: 20,
+  },
+    footer: {
+    justifyContent: 'flex-end',
+    marginBottom: 20
   },
 });
 
