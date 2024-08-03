@@ -40,6 +40,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Desafio Woovi Frontend](https://github.com/rickreisme/DesafioFrontEndWoovi) - Woovi Frontend Engineer Challenge [Rick Reis](https://github.com/rickreisme/)
 - [Woovi Frontend Engineer Challenge](https://github.com/higorxi/woovi-challenge-app) - Woovi Frontend Engineer Challenge [Higor Giovane](https://github.com/higorxi)
 - [Desafio Woovi Frontend](https://github.com/br-gabriel/woovi-challenge) - Woovi Frontend Engineer Challenge [Gabriel Feitosa](https://github.com/br-gabriel)
+- [Woovi Frontend Challenge](https://github.com/iigorfelipe/woovi) by [Igor Felipe](https://github.com/iigorfelipe)
 
 ## Finishing the challenge
 
