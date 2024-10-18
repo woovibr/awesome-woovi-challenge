@@ -27,6 +27,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Bankr](https://bankr-two.vercel.app/) - Bankr - Woovi Challenge CRUD Bank [pedroscosta](https://github.com/pedroscosta) - [repo](https://github.com/pedroscosta/bankr)
 - [tabnews.clone.com.br](https://github.com/joelbrs/tabnews.clone.com.br) - A Tabnews clone developed with Woovi stack by  [@joelbrs](https://github.com/joelbrs)
 - [Bank](https://github.com/joelbrs/bank.com.br) - Bank - Woovi Challenge CRUD FullStack developed by [@joelbrs](https://github.com/joelbrs)
+- [Woovi Bank](https://github.com/hallexcosta/woovi-fullstack-challenger) - Woovi Bank - Woovi Challenge FullStack with Relay and Multitenancy Leaky Bucket Strategy | [@hallexcosta](https://github.com/hallexcosta)
 
 
 ## Challenges Pix Architecture
