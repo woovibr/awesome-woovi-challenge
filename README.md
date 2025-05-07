@@ -47,6 +47,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Woovi Frontend Challenge](https://github.com/iigorfelipe/woovi) by [Igor Felipe](https://github.com/iigorfelipe)
 - [Woovi Frontend Engineer Challenge](https://github.com/wkauan/woovi-frontend-challenge) - Woovi Frontend Engineer Challenge [wkauan](https://github.com/wkauan)
 - [Woovi Frontend Challenge](https://github.com/Ryan-Costa/woovi-frontend-challenge) - Woovi Frontend Challenge By [Ryan Costa](https://github.com/Ryan-Costa)
+- [Woovi Challenge - Frontend Engineer](https://github.com/gaia-j/woovi-challenge) - Woovi Challenge - Frontend Engineer [gaia-j](https://github.com/gaia-j)
 
 ## Finishing the challenge
 
