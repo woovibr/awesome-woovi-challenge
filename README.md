@@ -23,7 +23,13 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [WooBank](https://woobank-web.vercel.app/) - WooBank - Woovi Challenge CRUD Bank [victordantasdev](https://github.com/victordantasdev) - [repo](https://github.com/victordantasdev/woobank)
 - [VaultTrack](https://github.com/henrique-leme/vault-track) - VaultTrack - Woovi Challenge CRUD Bank [@henrique-leme](https://github.com/henrique-leme)
 - [WooviBank](https://github.com/neverson-silva/woo-bank) - Woovi Challenge CRUD Bank [neverson-silva](https://github.com/neverson-silva)
+- [Frontend Software Engineer - Junior](https://github.com/whyleonardo/woovi-front-challenge) - Woovi Frontend Software Engineer [whyleonardo](https://github.com/whyleonardo)
 - [Bankr](https://bankr-two.vercel.app/) - Bankr - Woovi Challenge CRUD Bank [pedroscosta](https://github.com/pedroscosta) - [repo](https://github.com/pedroscosta/bankr)
+- [tabnews.clone.com.br](https://github.com/joelbrs/tabnews.clone.com.br) - A Tabnews clone developed with Woovi stack by  [@joelbrs](https://github.com/joelbrs)
+- [Bank](https://github.com/joelbrs/bank.com.br) - Bank - Woovi Challenge CRUD FullStack developed by [@joelbrs](https://github.com/joelbrs)
+- [Woovi Bank](https://github.com/hallexcosta/woovi-fullstack-challenger) - Woovi Bank - Woovi Challenge FullStack with Relay and Multitenancy Leaky Bucket Strategy | [@hallexcosta](https://github.com/hallexcosta)
+- [Leaky Bucket](https://github.com/adamsnows/leaky-bucket-challenge) - FullStack Leaky Bucket Challenge with Relay and Multitenancy Leaky Bucket Strategy | [@adamsnows](https://github.com/adamsnows)
+
 
 ## Challenges Pix Architecture
 
@@ -35,8 +41,13 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Woovi Web](https://github.com/eliaslma/woovi-web/) by [Elias Lima](https://github.com/eliaslma)
 - [Woovi Frontend Engineer Challenge](https://github.com/akshatSoni26/woovitask) - Woovi Frontend Engineer Challenge [akshatSoni26](https://github.com/akshatSoni26)
 - [Woovi Frontend Engineer Challenge](https://github.com/leandrucarvalho/desafio-woovi-frontend) - Woovi Frontend Engineer Challenge [leandrucarvalho](https://github.com/leandrucarvalho)
+- [Desafio Woovi Frontend](https://github.com/rickreisme/DesafioFrontEndWoovi) - Woovi Frontend Engineer Challenge [Rick Reis](https://github.com/rickreisme/)
+- [Woovi Frontend Engineer Challenge](https://github.com/higorxi/woovi-challenge-app) - Woovi Frontend Engineer Challenge [Higor Giovane](https://github.com/higorxi)
+- [Desafio Woovi Frontend](https://github.com/br-gabriel/woovi-challenge) - Woovi Frontend Engineer Challenge [Gabriel Feitosa](https://github.com/br-gabriel)
+- [Woovi Frontend Challenge](https://github.com/iigorfelipe/woovi) by [Igor Felipe](https://github.com/iigorfelipe)
+- [Woovi Frontend Engineer Challenge](https://github.com/wkauan/woovi-frontend-challenge) - Woovi Frontend Engineer Challenge [wkauan](https://github.com/wkauan)
+- [Woovi Frontend Challenge](https://github.com/Ryan-Costa/woovi-frontend-challenge) - Woovi Frontend Challenge By [Ryan Costa](https://github.com/Ryan-Costa)
 - [Woovi Challenge - Frontend Engineer](https://github.com/gaia-j/woovi-challenge) - Woovi Challenge - Frontend Engineer [gaia-j](https://github.com/gaia-j)
-
 
 ## Finishing the challenge
 
