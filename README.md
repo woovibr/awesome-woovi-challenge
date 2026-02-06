@@ -30,6 +30,7 @@ Repository containing awesome woovi challenges made by our challengers while try
 - [Woovi Bank](https://github.com/hallexcosta/woovi-fullstack-challenger) - Woovi Bank - Woovi Challenge FullStack with Relay and Multitenancy Leaky Bucket Strategy | [@hallexcosta](https://github.com/hallexcosta)
 - [Leaky Bucket](https://github.com/adamsnows/leaky-bucket-challenge) - FullStack Leaky Bucket Challenge with Relay and Multitenancy Leaky Bucket Strategy | [@adamsnows](https://github.com/adamsnows)
 - [Leaky Bucket from the oven](https://github.com/RyanGst/leaky-bucket) - Backend Leaky Bucket Challenge and Multitenancy Leaky Bucket Strategy using Bun | [@ryangst](https://github.com/RyanGst/leaky-bucket)
+- [Woovi Shop](https://github.com/0xjoaovictor/woovi-shop) - Full-stack e-commerce application built with the Woovi stack, featuring PIX payments via the Woovi platform. | [@0xjoaovictor](https://github.com/0xjoaovictor/woovi-shop)
 
 ## Challenges Pix Architecture
 
